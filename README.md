@@ -1,6 +1,6 @@
 # LetsLearnLanguages :smiley:
 
-Lets learn new languages during this Covid Hacktoberfest!!
+Lets learn new languages during this Hacktoberfest!!
 
 ## How to contribute :question:
 
